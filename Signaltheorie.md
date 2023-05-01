@@ -44,6 +44,15 @@
 
 ## Signaldarstellung
 
+##### Integration
+
+>[!NOTE] Definition
+>
+>Für ein beliebiges begrenztes Integral gilt:
+>$$\int^a_bf(x)dx\hspace{0.5cm}=\hspace{0.5cm}\Big[F(x)\Big]^a_b\hspace{0.5cm}=\hspace{0.5cm}F(a)-F(b)$$
+
+---
+
 ##### Fourierreihe
 
 >[!NOTE] Definition
