@@ -37,7 +37,9 @@
 
 >[!NOTE] Definition
 >
->Den mittleren Informationsgehalt einer Quelle bezeichnet man als Entropie. Ist für alle $x\in\chi$ die Auftrittswahrscheinlichkeit gleich, dann ist die Entropie maximal ($1$). Und man kann somit keine Vorhersage über das nächste Zeichen machen.
+>Den mittleren Informationsgehalt einer Quelle bezeichnet man als Entropie. Die Entropie beschreibt zudem das Maß für Ungewissheit 
+>- ist für alle $x\in\chi$ die Auftrittswahrscheinlichkeit gleich, dann ist die Entropie maximal also $1\Rightarrow$ es kann keine Voraussage über das nächste Zeichen getroffen werden
+>- der Verlauf der Entropie verhält sich wie eine Glocke für binäre Zeichen
 >$$H(X)=\sum_{x\in\chi}p(x)\cdot I(x)$$
 
 <br>
